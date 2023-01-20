@@ -1,0 +1,8 @@
+firstName:Eric
+middleName:J
+lastName:Jackman
+suffix:
+ailment:covid
+doctor:Smith
+treated:0
+priority:23
